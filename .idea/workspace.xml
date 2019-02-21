@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c27722b8-a062-4875-a214-3fb2a80fc8bb" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/whmcs-blazing-servers/src/Controller/APIController.php" beforeDir="false" afterPath="$PROJECT_DIR$/whmcs-blazing-servers/src/Controller/APIController.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/hosting-dashboard/composer.json</pharConfigPath>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="choose_tariff.blade.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/serp-dashboard-billing/choose_tariff.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="789">
+              <caret line="1124" column="11" selection-start-line="1124" selection-start-column="11" selection-end-line="1124" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="products.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hosting-dashboard/src/views/default/dashboard/products.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2385">
+              <caret line="159" column="71" selection-start-line="159" selection-start-column="71" selection-end-line="159" selection-end-column="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/serp-dashboard-billing/index.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19305">
+              <caret line="1276" selection-start-line="1276" selection-end-line="1276" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>whmcs</find>
+      <find>whmcs.dev</find>
+      <find>api</find>
+      <find>doqui</find>
+      <find>nynj</find>
+      <find>invoice</find>
+      <find>hook</find>
+      <find>fin</find>
+      <find>findbyan</find>
+      <find>l</find>
+      <find>logtra</find>
+      <find>GetResponseTrialPurchased</find>
+      <find>before</find>
+      <find>beforeor</find>
+      <find>ordercre</find>
+      <find>logAc</find>
+      <find>SERPGrab Terms of Service</find>
+      <find>you and the entity</find>
+      <find>$tariffs</find>
+      <find>renderKey</find>
+      <find>tariffs</find>
+      <find>renderKeywordsRangeLabels</find>
+      <find>footer-btn</find>
+      <find>discount</find>
+      <find>console</find>
+      <find>modal</find>
+      <find>getpr</find>
+      <find>getProducts</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/whmcs-blazing-servers" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/hosting-wordpress-theme/js/vps.js" />
+        <option value="&lt;0bec3c67-187c-4d0f-9742-4c9f956744d8&gt;/home/ttolochko/hosting/wp-content/themes/blazing-servers/page-26.php" />
+        <option value="$PROJECT_DIR$/hosting-dashboard/src/Proxy/Controller/CheckoutController.php" />
+        <option value="&lt;1eef1e77-4972-440f-b4f4-b2bf2a11f20a&gt;/home/sftp/dashboard.dev.sprious.com/src/Proxy/Controller/DashboardController.php" />
+        <option value="&lt;1eef1e77-4972-440f-b4f4-b2bf2a11f20a&gt;/home/sftp/dashboard.dev.sprious.com/app/routing_common.php" />
+        <option value="$PROJECT_DIR$/hosting-dashboard/app/routing_common.php" />
+        <option value="&lt;1eef1e77-4972-440f-b4f4-b2bf2a11f20a&gt;/home/sftp/whmcs.dev.sprious.com/modules/addons/blazing_servers/src/Events/LoginToHostingDashboardLink.php" />
+        <option value="&lt;1eef1e77-4972-440f-b4f4-b2bf2a11f20a&gt;/home/sftp/dashboard.dev.sprious.com/src/views/default/layout/sidebar.html.twig" />
+        <option value="&lt;1eef1e77-4972-440f-b4f4-b2bf2a11f20a&gt;/home/sftp/dashboard.dev.sprious.com/src/views/default/layout/sidebar_submenu.html.twig" />
+        <option value="&lt;1eef1e77-4972-440f-b4f4-b2bf2a11f20a&gt;/home/sftp/dashboard.dev.sprious.com/src/views/default/layout/content.html.twig" />
+        <option value="&lt;1eef1e77-4972-440f-b4f4-b2bf2a11f20a&gt;/home/sftp/dashboard.dev.sprious.com/src/views/default/layout.html.twig" />
+        <option value="&lt;1eef1e77-4972-440f-b4f4-b2bf2a11f20a&gt;/home/sftp/whmcs.dev.sprious.com/modules/addons/blazing_servers/hooks.php" />
+        <option value="&lt;1eef1e77-4972-440f-b4f4-b2bf2a11f20a&gt;/home/sftp/whmcs.dev.sprious.com/modules/addons/blazing_servers/src/Events/NavbarLoginToHostingDashboardLink.php" />
+        <option value="$PROJECT_DIR$/hosting-dashboard/src/views/default/dashboard/serverManagement.html.twig" />
+        <option value="&lt;1eef1e77-4972-440f-b4f4-b2bf2a11f20a&gt;/home/sftp/dashboard.dev.sprious.com/src/views/default/dashboard/serverManagement.html.twig" />
+        <option value="&lt;0bec3c67-187c-4d0f-9742-4c9f956744d8&gt;/home/ttolochko/hosting/wp-content/themes/blazing-servers/js/dedicated.js" />
+        <option value="&lt;0bec3c67-187c-4d0f-9742-4c9f956744d8&gt;/home/ttolochko/hosting/wp-content/themes/blazing-servers/functions.php" />
+        <option value="&lt;d6f578f6-9da4-49be-a2c6-c31197dc73e1&gt;/home/ttolochko/proxy.wp/wp-content/themes/blazing-landing/footer.php" />
+        <option value="$PROJECT_DIR$/proxy-wp-theme/page-pricing.php" />
+        <option value="&lt;d6f578f6-9da4-49be-a2c6-c31197dc73e1&gt;/home/ttolochko/proxy.wp/wp-content/themes/blazing-landing/page-pricing.php" />
+        <option value="$PROJECT_DIR$/whmcs-blazing-servers/src/Events/LoginToHostingDashboardLink.php" />
+        <option value="&lt;5521acb9-821c-402d-b41f-66e26bc55af8&gt;/home/timur.tolochko/wp-site/wp-content/themes/serp-grabber/page-acceptable-use-policy.php" />
+        <option value="&lt;5521acb9-821c-402d-b41f-66e26bc55af8&gt;/home/timur.tolochko/wp-site/wp-content/themes/serp-grabber/page-terms-of-service.php" />
+        <option value="$PROJECT_DIR$/serp-grabber/page-coming-soon.php" />
+        <option value="&lt;5521acb9-821c-402d-b41f-66e26bc55af8&gt;/home/timur.tolochko/wp-site/wp-content/themes/serp-grabber/page-coming-soon.php" />
+        <option value="$PROJECT_DIR$/serp-grabber/js/scripts.min.js" />
+        <option value="&lt;48d0a9a1-b67f-46ba-8871-bf53b82f0127&gt;/home/fiery/homes/vlad_p/app/public/resources/views/user/tariff/index.blade.php" />
+        <option value="$PROJECT_DIR$/serp-grabber/js/calculator-page.js" />
+        <option value="&lt;d6f578f6-9da4-49be-a2c6-c31197dc73e1&gt;/home/ttolochko/.bashrc" />
+        <option value="$PROJECT_DIR$/hosting-dashboard/src/views/default/layout/content.html.twig" />
+        <option value="$PROJECT_DIR$/serp-grabber/page-calculator.php" />
+        <option value="&lt;5521acb9-821c-402d-b41f-66e26bc55af8&gt;/home/timur.tolochko/wp-site/wp-content/themes/serp-grabber/header.php" />
+        <option value="$PROJECT_DIR$/hosting-dashboard/src/views/default/layout/sidebar.html.twig" />
+        <option value="$PROJECT_DIR$/serp-grabber/functions.php" />
+        <option value="$PROJECT_DIR$/sr-amazon-demo/src/scss/_main.scss" />
+        <option value="$PROJECT_DIR$/sr-amazon-demo/src/scss/_header.scss" />
+        <option value="&lt;48d0a9a1-b67f-46ba-8871-bf53b82f0127&gt;/home/fiery/homes/vlad_p/app/homes/tymur/app/resources/views/user/tariff/index.blade.php" />
+        <option value="&lt;48d0a9a1-b67f-46ba-8871-bf53b82f0127&gt;/home/fiery/homes/vlad_p/app/homes/tymur/app/resources/views/user/dashboard/choose_tariff.blade.php" />
+        <option value="&lt;86aca223-a03a-47f3-bb8b-37acc845cccc&gt;/home/ttolochko/proxy.wp/wp-content/themes/blazing-landing/footer.php" />
+        <option value="&lt;0bec3c67-187c-4d0f-9742-4c9f956744d8&gt;/hosting/wp-content/themes/blazing-servers/footer.php" />
+        <option value="$PROJECT_DIR$/hosting-dashboard/src/views/default/layout.html.twig" />
+        <option value="$PROJECT_DIR$/sr-demo-auctions/index.html" />
+        <option value="&lt;fa8bab7e-120d-4915-9679-dfd48e5cd6e0&gt;/home/tt.se/webroot/servers/wp-content/themes/blazing-servers/js/vps.js" />
+        <option value="$PROJECT_DIR$/whmcs-blazing-servers/src/Controller/APIController.php" />
+        <option value="$PROJECT_DIR$/hosting-dashboard/src/Proxy/Controller/DashboardController.php" />
+        <option value="$PROJECT_DIR$/hosting-dashboard/src/views/default/dashboard/products.html.twig" />
+        <option value="$PROJECT_DIR$/serp-dashboard-billing/index.blade.php" />
+        <option value="$PROJECT_DIR$/serp-dashboard-billing/choose_tariff.blade.php" />
+        <option value="&lt;fa8bab7e-120d-4915-9679-dfd48e5cd6e0&gt;/home/tt.se/webroot/proxy/wp-content/themes/blazing-landing/footer.php" />
+        <option value="&lt;fa8bab7e-120d-4915-9679-dfd48e5cd6e0&gt;/home/tt.se/webroot/proxy/wp-content/themes/blazing-landing/js/priceSetter.js" />
+        <option value="&lt;fa8bab7e-120d-4915-9679-dfd48e5cd6e0&gt;/home/tt.se/webroot/proxy/wp-content/themes/blazing-landing/js/pricing/pricing.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/sr-amazon-demo/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/hosting-dashboard/package.json" />
+      <path value="$PROJECT_DIR$/hosting-dashboard/web/assets/vendor/animate.css/package.json" />
+      <path value="$PROJECT_DIR$/hosting-dashboard/web/assets/vendor/awesome-bootstrap-checkbox/package.json" />
+      <path value="$PROJECT_DIR$/hosting-dashboard/web/assets/vendor/bootbox.js/package.json" />
+      <path value="$PROJECT_DIR$/hosting-dashboard/web/assets/vendor/bootstrap/package.json" />
+      <path value="$PROJECT_DIR$/hosting-dashboard/web/assets/vendor/easytimer.js/package.json" />
+      <path value="$PROJECT_DIR$/hosting-dashboard/web/assets/vendor/jquery-localize-i18n/package.json" />
+      <path value="$PROJECT_DIR$/hosting-dashboard/web/assets/vendor/jquery-slimscroll/package.json" />
+      <path value="$PROJECT_DIR$/hosting-dashboard/web/assets/vendor/matchMedia/package.json" />
+      <path value="$PROJECT_DIR$/hosting-dashboard/web/assets/vendor/modernizr/package.json" />
+      <path value="$PROJECT_DIR$/hosting-dashboard/web/assets/vendor/screenfull/package.json" />
+      <path value="$PROJECT_DIR$/hosting-dashboard/web/assets/vendor/simple-line-icons/package.json" />
+      <path value="$PROJECT_DIR$/hosting-dashboard/web/assets/vendor/slimScroll/package.json" />
+      <path value="$PROJECT_DIR$/hosting-dashboard/web/assets/vendor/spinner.js.restored/package.json" />
+      <path value="$PROJECT_DIR$/hosting-dashboard/web/assets/vendor/spinner.js/package.json" />
+      <path value="$PROJECT_DIR$/hosting-dashboard/web/assets/vendor/whirl/package.json" />
+      <path value="$PROJECT_DIR$/optimized_start_template/package.json" />
+      <path value="$PROJECT_DIR$/proxy-wp-theme/libs/bootstrap/package.json" />
+      <path value="$PROJECT_DIR$/proxy-wp-theme/libs/html5shiv/package.json" />
+      <path value="$PROJECT_DIR$/proxy-wp-theme/libs/reset-css/package.json" />
+      <path value="$PROJECT_DIR$/proxy-wp-theme/libs/respond/package.json" />
+      <path value="$PROJECT_DIR$/serp-grabber/libs/components-font-awesome/package.json" />
+      <path value="$PROJECT_DIR$/serp-grabber/libs/responsive-nav/package.json" />
+      <path value="$PROJECT_DIR$/serp-grabber/src/app/libs/components-font-awesome/package.json" />
+      <path value="$PROJECT_DIR$/serp-grabber/src/app/libs/responsive-nav/package.json" />
+      <path value="$PROJECT_DIR$/sr-amazon-demo/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="64" />
+    <option name="y" value="-11" />
+    <option name="width" value="1617" />
+    <option name="height" value="1062" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bitbucket" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bitbucket" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bitbucket" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bitbucket" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy-wp-theme" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bitbucket" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bitbucket" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy-wp-theme" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="renderKe&#9;null&#9;null&#10;logActivity&#9;null&#9;null&#10;Util&#9;null&#9;null&#10;Captcha&#9;null&#9;null&#10;captcha&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/proxy-wp-theme/img" />
+      <recent name="$PROJECT_DIR$/proxy-wp-theme" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/serp-grabber/src" />
+      <recent name="$PROJECT_DIR$/whmcs-blazing-servers" />
+      <recent name="$PROJECT_DIR$/hosting-wordpress-theme" />
+      <recent name="$PROJECT_DIR$/hosting-wordpress-theme/css" />
+      <recent name="$PROJECT_DIR$/proxy-wp-theme" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c27722b8-a062-4875-a214-3fb2a80fc8bb" name="Default" comment="" />
+      <created>1544089477767</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544089477767</updated>
+      <workItem from="1544089479031" duration="17732000" />
+      <workItem from="1544139012458" duration="1484000" />
+      <workItem from="1544179176358" duration="12026000" />
+      <workItem from="1544211899012" duration="5868000" />
+      <workItem from="1544349353231" duration="8699000" />
+      <workItem from="1544526281328" duration="2703000" />
+      <workItem from="1544529419192" duration="12234000" />
+      <workItem from="1544611268790" duration="2081000" />
+      <workItem from="1544698520401" duration="3270000" />
+      <workItem from="1544781946893" duration="10935000" />
+      <workItem from="1545045436124" duration="8118000" />
+      <workItem from="1545067587503" duration="867000" />
+      <workItem from="1545126214279" duration="598000" />
+      <workItem from="1545137025534" duration="5686000" />
+      <workItem from="1545221356596" duration="4320000" />
+      <workItem from="1545245355260" duration="3232000" />
+      <workItem from="1545305330223" duration="599000" />
+      <workItem from="1545310679371" duration="4091000" />
+      <workItem from="1545339779592" duration="1206000" />
+      <workItem from="1545386957068" duration="599000" />
+      <workItem from="1545391568154" duration="3394000" />
+      <workItem from="1545421098631" duration="1627000" />
+      <workItem from="1545648953136" duration="1177000" />
+      <workItem from="1545656264249" duration="2544000" />
+      <workItem from="1545742449195" duration="599000" />
+      <workItem from="1545828561357" duration="4661000" />
+      <workItem from="1545915705148" duration="665000" />
+      <workItem from="1545930027436" duration="599000" />
+      <workItem from="1545995475574" duration="598000" />
+      <workItem from="1546513447200" duration="1476000" />
+      <workItem from="1546601071765" duration="599000" />
+      <workItem from="1546951393654" duration="649000" />
+      <workItem from="1546952255094" duration="5501000" />
+      <workItem from="1547033807738" duration="3497000" />
+      <workItem from="1547048849686" duration="810000" />
+      <workItem from="1547059879644" duration="3333000" />
+      <workItem from="1547109354692" duration="5991000" />
+      <workItem from="1547207819159" duration="63000" />
+      <workItem from="1547207910565" duration="17525000" />
+      <workItem from="1547296620375" duration="2532000" />
+      <workItem from="1547460922692" duration="2081000" />
+      <workItem from="1547482193585" duration="19296000" />
+      <workItem from="1547633783174" duration="4050000" />
+      <workItem from="1547649907769" duration="2089000" />
+      <workItem from="1547710974352" duration="4508000" />
+      <workItem from="1547727773634" duration="2650000" />
+      <workItem from="1547736321514" duration="599000" />
+      <workItem from="1547743452230" duration="5659000" />
+      <workItem from="1547810756536" duration="599000" />
+      <workItem from="1547831648266" duration="1615000" />
+      <workItem from="1547979117198" duration="2686000" />
+      <workItem from="1548060650074" duration="595000" />
+      <workItem from="1548092869439" duration="1960000" />
+      <workItem from="1548147306090" duration="4752000" />
+      <workItem from="1548187252450" duration="599000" />
+      <workItem from="1548227758771" duration="3019000" />
+      <workItem from="1548330567501" duration="1921000" />
+      <workItem from="1548403358333" duration="3492000" />
+      <workItem from="1549013742293" duration="1227000" />
+      <workItem from="1549274243855" duration="599000" />
+      <workItem from="1549287654603" duration="1369000" />
+      <workItem from="1549304040375" duration="1875000" />
+      <workItem from="1549360666185" duration="1201000" />
+      <workItem from="1549404175537" duration="597000" />
+      <workItem from="1549444249348" duration="599000" />
+      <workItem from="1549464693681" duration="1994000" />
+      <workItem from="1549536375101" duration="967000" />
+      <workItem from="1549568022324" duration="694000" />
+      <workItem from="1549623028815" duration="680000" />
+      <workItem from="1549646996102" duration="3935000" />
+      <workItem from="1549740718625" duration="599000" />
+      <workItem from="1549876180212" duration="9679000" />
+      <workItem from="1549909551977" duration="599000" />
+      <workItem from="1549975977021" duration="2924000" />
+      <workItem from="1550051267058" duration="599000" />
+      <workItem from="1550074654948" duration="597000" />
+      <workItem from="1550154473462" duration="598000" />
+      <workItem from="1550175083489" duration="596000" />
+      <workItem from="1550486161476" duration="413000" />
+      <workItem from="1550573560414" duration="3942000" />
+      <workItem from="1550608253668" duration="599000" />
+      <workItem from="1550662154040" duration="595000" />
+      <workItem from="1550672726564" duration="599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="264434000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="64" y="-11" width="1617" height="1062" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50159335" side_tool="true" weight="0.3726977" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49840662" weight="0.38195992" />
+      <window_info active="true" anchor="right" id="Remote Host" order="3" visible="true" weight="0.18100701" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.14850223" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32950923" />
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24984066" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="File Transfer" order="9" weight="0.13697104" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/sr-amazon-demo/src/scss/_sidebar.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sr-amazon-demo/src/scss/_footer.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sr-amazon-demo/src/scss/styles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sr-amazon-demo/src/header.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sr-amazon-demo/src/results.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2610">
+          <caret line="174" column="43" selection-start-line="174" selection-start-column="43" selection-end-line="174" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sr-amazon-demo/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="23" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sr-amazon-demo/build/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sr-amazon-demo/build/results.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sr-amazon-demo/build/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13740">
+          <caret line="916" column="28" selection-start-line="916" selection-start-column="28" selection-end-line="916" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17205">
+          <caret line="1160" column="4" selection-start-line="1160" selection-start-column="4" selection-end-line="1160" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hosting-dashboard/src/views/default/layout/meta.html.twig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hosting-dashboard/src/views/default/layout.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="46" selection-start-line="44" selection-start-column="46" selection-end-line="44" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sr-demo-auctions/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="59" column="7" selection-start-line="59" selection-start-column="7" selection-end-line="65" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hosting-dashboard/web/assets/theme/servers/assets/img/favicon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hosting-dashboard/web/assets/theme/servers/assets/img/background.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hosting-dashboard/web/assets/theme/servers/assets/img/angular2-logo-white.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hosting-dashboard/web/assets/theme/servers/assets/img/angular2-logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hosting-dashboard/web/assets/theme/servers/assets/img/logo-small.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hosting-dashboard/web/assets/theme/servers/assets/img/logo@2x.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hosting-dashboard/web/assets/theme/servers/assets/img/Logo Blazing SERVERS.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy-wp-theme/img/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy-wp-theme/img/logo-small.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy-wp-theme/img/logo-small1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy-wp-theme/img/logo-support.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy-wp-theme/img/Macbook IP Opened.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy-wp-theme/img/Macbook IP Opened1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy-wp-theme/img/MacbookBanned.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy-wp-theme/img/map.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy-wp-theme/img/map-world-vector-bg.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy-wp-theme/img/navs.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy-wp-theme/img/navvy.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy-wp-theme/img/pop.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy-wp-theme/img/pop proxy test.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy-wp-theme/img/pop proxy test@2x.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy-wp-theme/img/preloader.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy-wp-theme/img/flav.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy-wp-theme/img/http.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy-wp-theme/img/home.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy-wp-theme/img/compare-bg.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy-wp-theme/img/compare.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy-wp-theme/img/Brazil-flag.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hosting-dashboard/config.migrations.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hosting-dashboard/config.example.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hosting-dashboard/config.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hosting-dashboard/src/views/default/dashboard/product.html.twig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/whmcs-blazing-servers/src/Controller/APIController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="298" column="8" selection-start-line="298" selection-start-column="8" selection-end-line="298" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hosting-dashboard/src/Proxy/Integrations/WHMCSPluginServers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1125">
+          <caret line="80" column="43" selection-start-line="80" selection-start-column="32" selection-end-line="80" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hosting-dashboard/src/Proxy/Controller/DashboardController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3780">
+          <caret line="261" selection-start-line="261" selection-end-line="261" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hosting-dashboard/src/views/default/dashboard/products.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2385">
+          <caret line="159" column="71" selection-start-line="159" selection-start-column="71" selection-end-line="159" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serp-dashboard-billing/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19305">
+          <caret line="1276" selection-start-line="1276" selection-end-line="1276" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serp-dashboard-billing/choose_tariff.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="789">
+          <caret line="1124" column="11" selection-start-line="1124" selection-start-column="11" selection-end-line="1124" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
